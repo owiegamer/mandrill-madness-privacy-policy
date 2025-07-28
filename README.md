@@ -34,7 +34,7 @@ Used for storing your game progress, stats, and cosmetics.
 We do not sell or share data. Only Photon and PlayFab handle gameplay data.
 
 ## 5. Data Deletion
-To delete your data, email **owenparfittdev@gmail.com** with your Oculus username.
+To delete your data, email owiegamerlive@gmail.com with your Oculus username.
 
 ## 6. Changes
 This policy may change. Updates will be posted here.
