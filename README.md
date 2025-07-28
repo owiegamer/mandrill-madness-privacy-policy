@@ -40,4 +40,4 @@ To delete your data, email **owenparfittdev@gmail.com** with your Oculus usernam
 This policy may change. Updates will be posted here.
 
 ## 7. Contact
-📧 owenparfittdev@gmail.com
+owiegamerlive@gmail.com
