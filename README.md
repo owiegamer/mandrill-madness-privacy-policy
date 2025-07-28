@@ -2,7 +2,7 @@
 
 **Effective Date:** July 28, 2025  
 **Developer:** Owen Parfitt  
-**Contact:** owenparfittdev@gmail.com
+**Contact:** owiegamerlive@gmail.com
 
 ## 1. Information We Collect
 When you use **Mandrill Madness**, we may collect:
